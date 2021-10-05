@@ -1,0 +1,12 @@
+._ftrbg{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    /* z-index: -1; */
+    background-color: #ddd;
+    color: black;
+}
+
+._ftrimg{
+    width: 50px;
+}

@@ -1,0 +1,27 @@
+._jmeet{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+._jmcont{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-top: 50px;
+}
+
+._jmbtn{
+    display: flex;
+    margin: auto !important;
+    width: 200px;
+    font-weight: 500;
+    justify-content: center;
+    background-color: #257ac2;
+    color: white;
+}
+
+._jmbtn:hover {
+    background-color: #257ac2;
+    color: white;
+}

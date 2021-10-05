@@ -1,0 +1,24 @@
+._mdlh{
+    background-color: #ddd;
+}
+
+._mdltxt{
+    font-weight: 500 !important;
+}
+
+._mdlinp{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+._mdlbtn{
+    background-color: #257ac2;
+    outline: none;
+    color: white;
+}
+
+._mdlbtn:hover {
+    background-color: #257ac2;
+    outline: none;
+    color: white;
+}

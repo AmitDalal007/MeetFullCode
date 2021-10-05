@@ -1,0 +1,37 @@
+._hcont{
+    margin-top: 50px;
+}
+
+._homtbbg{
+    background-color: #ddd;
+}
+
+._homdlt:hover {
+    color: red !important;
+}
+
+._hombtn{
+    background-color: #257ac2;
+    outline: none;
+    color: white;
+}
+
+._hombtn:hover{
+    background-color: #257ac2;
+    color: white;
+}
+
+._homfbtn{
+    width: 30px;
+    height: 40px;
+    margin: 4px;
+}
+
+._fxdbtn{
+    position: fixed;
+    z-index: 2;
+    right: 0;
+    bottom: 0;
+    margin-right: 50px;
+    margin-bottom: 40px;
+}

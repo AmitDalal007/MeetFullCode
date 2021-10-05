@@ -1,0 +1,17 @@
+._nbar{
+    background-color: #ddd !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+._nbarimg{
+    width: 150px;
+    height: 55px;
+    margin-left: 50px;
+}
+
+._nbarlink{
+    color: black;
+    font-weight: 500;
+}
