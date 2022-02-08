@@ -25,3 +25,21 @@
     background-color: #257ac2;
     color: white;
 }
+
+/* Join Meeting */
+._jmmbody{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+._jmframe{
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* If url undefined */
+._jmerr{
+    color: #dc3545;
+}

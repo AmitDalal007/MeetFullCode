@@ -1,0 +1,8 @@
+/* for in meeting */
+._inmeet{
+    width: 100% !important;
+    height: 100vh !important;
+    z-index: 5 !important;
+    position: absolute;
+    background-color: rgb(27, 38, 56) !important;
+}

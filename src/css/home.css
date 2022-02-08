@@ -6,8 +6,26 @@
     background-color: #ddd;
 }
 
+._homjoin{
+    background-color: #257ac2;
+    font-weight: 500;
+    margin-right: 9px;
+    color: white;
+}
+
+._homjoin:hover {
+    background-color: #257ac2;
+    color: white;
+}
+
+._homdlt{
+    background-color: #dc3545;
+    color: white;
+}
+
 ._homdlt:hover {
-    color: red !important;
+    background-color: #dc3545;
+    color: white;
 }
 
 ._hombtn{
@@ -34,4 +52,19 @@
     bottom: 0;
     margin-right: 50px;
     margin-bottom: 40px;
+}
+
+._tddisp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+._hominp{
+    border: none;
+    width: 100px;
+}
+
+._hompeye{
+    color: #257ac2 !important;
 }

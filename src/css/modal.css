@@ -2,6 +2,10 @@
     background-color: #ddd;
 }
 
+._mdlh2{
+    color: #41a805;
+}
+
 ._mdltxt{
     font-weight: 500 !important;
 }
@@ -21,4 +25,19 @@
     background-color: #257ac2;
     outline: none;
     color: white;
+}
+
+._mdlclpbtn{
+    height: 18px;
+    width: 15px;
+    font-weight: bolder;
+}
+
+._mdlto{
+    margin-left: 25px;
+}
+
+/* Passcode */
+._mdlpc{
+    font-size: 1.5rem;
 }

@@ -2,6 +2,8 @@ import './css/navbar.css'
 import './css/home.css'
 import './css/modal.css'
 import './css/joinmeeting.css'
+import './css/meeting.css'
+import './css/login_signup.css'
 import './css/footer.css'
 
 import Navbar from './components/Navbar.js'
@@ -13,6 +15,9 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
+import Meeting from './components/Meeting'
+import Login from './components/Login'
+import SignUp from './components/SignUp'
 
 
 function App() {
@@ -26,6 +31,15 @@ function App() {
           </Route>
           <Route exact path="/joinmeeting">
             <JoinMeeting />
+          </Route>
+          <Route exact path="/meeting">
+            <Meeting />
+          </Route>
+          <Route exact path="/login">
+            <Login />
+          </Route>
+          <Route exact path="/signup">
+            <SignUp />
           </Route>
         </Switch>
         <Footer />
